@@ -30,4 +30,5 @@ public class PessoaJuridica extends Pessoa{
     public void setIdade(int idade){
         super.setIdade(idade);
     }
+
 }
